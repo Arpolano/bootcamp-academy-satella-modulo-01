@@ -1,0 +1,45 @@
+#titulo {
+    color: red;
+    font-weight: 300;
+}
+
+/* DEFINIÇÕES PARA FONTES */
+
+.negrito {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+/* DEFINIÇÕES PARA CORES */
+
+.azul {
+    color: blue;
+}
+
+.verde {
+    color: rgb(7, 245, 7) ;
+}
+
+.vermelho {
+    color: red;
+}
+
+.cinza{
+    color:gray;
+}
+
+
+/* DEFINIÇÕES PARA LINKS */
+a {
+    color: red;
+}
+
+/* DEFINIÇÕES ESPECIAIS */
+
+.especial{
+    font-weight: bold;
+    font-size: 25px;
+    color:darkorange;
+
+}
